@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  height: 100px;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+.red {
+  background-color: #ee3f4d55;
+}
+
+.blue {
+  background-color: #93b5cfee;
+}
